@@ -7,6 +7,7 @@ graduated from al Hussein bin tall university and i am 23 years old
 ## lab 04 Pair Programming: More extensions to About Me
 
 
-- Abdulmajjed was Navigator on: https://github.com/abdulmajjed/aboutme-game/pull/1
+- Abdulmajjed was  Driver on: https://github.com/dana-younis/knew-one/pull/1
 
-- dana was Driver on: 
+- I was Navigator on:  https://github.com/abdulmajjed/aboutme-game/pull/1
+
